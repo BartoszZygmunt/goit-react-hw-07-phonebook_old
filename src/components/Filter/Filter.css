@@ -1,0 +1,14 @@
+/* Filter.css */
+.filter-container {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #555;
+}
+
+input {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}

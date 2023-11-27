@@ -1,0 +1,25 @@
+/* ContactList.css */
+.contact-list-container {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #555;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 6px;
+  cursor: pointer;
+  background-color: #ff3d00;
+  color: white;
+  border: none;
+}
